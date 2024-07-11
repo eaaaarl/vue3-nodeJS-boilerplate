@@ -1,4 +1,4 @@
-# vue3-nodeJS-boilerplate
+# vue3 Typescript & nodeJS -boilerplate
 
 # Web-client
 - ky http
